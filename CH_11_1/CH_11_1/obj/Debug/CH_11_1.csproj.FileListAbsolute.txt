@@ -1,0 +1,10 @@
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\bin\Debug\CH_11_1.exe.config
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\bin\Debug\CH_11_1.exe
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\bin\Debug\CH_11_1.pdb
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\obj\Debug\CH_11_1.csproj.AssemblyReference.cache
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\obj\Debug\CH_11_1.Form1.resources
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\obj\Debug\CH_11_1.Properties.Resources.resources
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\obj\Debug\CH_11_1.csproj.GenerateResource.cache
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\obj\Debug\CH_11_1.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\obj\Debug\CH_11_1.exe
+C:\Users\elmer\source\repos\CH_11_1\CH_11_1\obj\Debug\CH_11_1.pdb
